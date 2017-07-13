@@ -1,6 +1,6 @@
-package com.desafiolatam.unsplashy.photos;
+package com.adacherSoft.unsplashy.photos;
 
-import com.desafiolatam.unsplashy.models.Unsplash;
+import com.adacherSoft.unsplashy.models.Unsplash;
 
 /**
  * Created by adacher on 12-07-17.

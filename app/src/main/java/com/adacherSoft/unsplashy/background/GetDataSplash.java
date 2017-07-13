@@ -1,11 +1,11 @@
-package com.desafiolatam.unsplashy.background;
+package com.adacherSoft.unsplashy.background;
 
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.desafiolatam.unsplashy.models.Unsplash;
-import com.desafiolatam.unsplashy.network.GetSplash;
-import com.desafiolatam.unsplashy.network.UnsplashInterceptor;
+import com.adacherSoft.unsplashy.models.Unsplash;
+import com.adacherSoft.unsplashy.network.GetSplash;
+import com.adacherSoft.unsplashy.network.UnsplashInterceptor;
 
 import java.io.IOException;
 import java.util.ArrayList;

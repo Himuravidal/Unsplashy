@@ -1,4 +1,4 @@
-package com.desafiolatam.unsplashy.adapter;
+package com.adacherSoft.unsplashy.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -7,9 +7,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.desafiolatam.unsplashy.R;
-import com.desafiolatam.unsplashy.models.Unsplash;
-import com.desafiolatam.unsplashy.photos.PhotoListener;
+import com.adacherSoft.unsplashy.R;
+import com.adacherSoft.unsplashy.models.Unsplash;
+import com.adacherSoft.unsplashy.photos.PhotoListener;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

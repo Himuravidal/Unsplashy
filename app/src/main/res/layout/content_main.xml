@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.desafiolatam.unsplashy.views.MainActivity"
+    tools:context="com.adacherSoft.unsplashy.views.MainActivity"
     tools:showIn="@layout/activity_main">
 
     <fragment
         android:id="@+id/fragmentSplash"
-        android:name="com.desafiolatam.unsplashy.views.UnsplashFragment"
+        android:name="com.adacherSoft.unsplashy.views.UnsplashFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

@@ -1,4 +1,4 @@
-package com.desafiolatam.unsplashy.photos;
+package com.adacherSoft.unsplashy.photos;
 
 import android.app.DownloadManager;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Environment;
 
-import com.desafiolatam.unsplashy.models.Unsplash;
+import com.adacherSoft.unsplashy.models.Unsplash;
 
 /**
  * Created by adacher on 12-07-17.

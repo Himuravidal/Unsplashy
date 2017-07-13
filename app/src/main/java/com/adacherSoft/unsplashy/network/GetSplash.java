@@ -1,6 +1,6 @@
-package com.desafiolatam.unsplashy.network;
+package com.adacherSoft.unsplashy.network;
 
-import com.desafiolatam.unsplashy.models.Unsplash;
+import com.adacherSoft.unsplashy.models.Unsplash;
 
 import java.util.List;
 

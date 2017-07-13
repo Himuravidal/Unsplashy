@@ -1,4 +1,4 @@
-package com.desafiolatam.unsplashy.views;
+package com.adacherSoft.unsplashy.views;
 
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
@@ -8,10 +8,10 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.adacherSoft.unsplashy.R;
+import com.adacherSoft.unsplashy.background.GetDataSplash;
+import com.adacherSoft.unsplashy.models.Unsplash;
 import com.crashlytics.android.Crashlytics;
-import com.desafiolatam.unsplashy.R;
-import com.desafiolatam.unsplashy.background.GetDataSplash;
-import com.desafiolatam.unsplashy.models.Unsplash;
 
 import java.util.ArrayList;
 import java.util.List;

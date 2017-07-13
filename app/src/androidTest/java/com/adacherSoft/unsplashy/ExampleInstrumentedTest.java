@@ -1,4 +1,4 @@
-package com.desafiolatam.unsplashy;
+package com.adacherSoft.unsplashy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

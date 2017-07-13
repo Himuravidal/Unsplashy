@@ -1,4 +1,4 @@
-package com.desafiolatam.unsplashy;
+package com.adacherSoft.unsplashy;
 
 import org.junit.Test;
 

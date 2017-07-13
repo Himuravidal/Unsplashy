@@ -1,4 +1,4 @@
-package com.desafiolatam.unsplashy.views;
+package com.adacherSoft.unsplashy.views;
 
 
 import android.Manifest;
@@ -16,12 +16,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.desafiolatam.unsplashy.R;
-import com.desafiolatam.unsplashy.adapter.UnsplashyAdapter;
-import com.desafiolatam.unsplashy.background.GetDataSplash;
-import com.desafiolatam.unsplashy.models.Unsplash;
-import com.desafiolatam.unsplashy.photos.PhotoListener;
-import com.desafiolatam.unsplashy.photos.SavePhoto;
+import com.adacherSoft.unsplashy.R;
+import com.adacherSoft.unsplashy.adapter.UnsplashyAdapter;
+import com.adacherSoft.unsplashy.background.GetDataSplash;
+import com.adacherSoft.unsplashy.models.Unsplash;
+import com.adacherSoft.unsplashy.photos.PhotoListener;
+import com.adacherSoft.unsplashy.photos.SavePhoto;
 
 import java.util.List;
 
